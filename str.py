@@ -23,4 +23,4 @@ print(" ,the capital of Kenya.")
 
 # Format string = f
 age = input("What is your age? ")
-print(f"I'm {age} years old.") 
+print(f"I'm {age} years old.")
