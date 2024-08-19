@@ -8,3 +8,7 @@ Str
 
 Int
 
+Conditions
+
+Loops
+
