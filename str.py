@@ -22,5 +22,5 @@ print("I'm from ", location, end="")
 print(" ,the capital of Kenya.")
 
 # Format string = f
-age = input("What is your age? ")
+age = int(input("What is your age? "))
 print(f"I'm {age} years old.")
